@@ -1,4 +1,4 @@
-## postman documantation : https://documenter.getpostman.com/view/45904223/2sB34oBwyR
+- postman documantation : https://documenter.getpostman.com/view/45904223/2sB34oBwyR
 
 ## 🍽️ 🍲 Recipes CRUD Application
 - A full-featured RESTful API built with Node.js, Express.js, and MongoDB for managing recipes. This project follows the MVC (Model-View-Controller) architecture and includes Postman documentation for all endpoints.
